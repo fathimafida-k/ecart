@@ -1,12 +1,78 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# E-Commerce Web Application 
 
-Currently, two official plugins are available:
+A React-based e-commerce web application that allows users to browse products across multiple categories such as cosmetics, groceries, furniture, and more.  
+Users can search products, view details, manage wishlist and cart, and place orders through a smooth and interactive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was developed as part of my MERN Stack internship and focuses on frontend architecture, Redux state management, and real-world e-commerce workflows.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Features
+
+- Search functionality
+- Product details page
+- Add / remove products from wishlist
+- Add products to cart
+- Increment & decrement cart quantity with dynamic price updates
+- Checkout flow with order confirmation
+- Cart reset after successful order
+- Clean and responsive UI
+
+---
+
+## Tech Stack
+
+- React
+- JavaScript
+- Redux (State Management)
+- Vite
+- HTML
+- CSS
+
+---
+
+## 🔗 Live Demo
+
+👉 https://YOUR-LIVE-LINK-HERE
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+````
+
+2. Navigate to the project folder
+
+```bash
+cd YOUR_REPO_NAME
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📌 Notes
+
+* This is a **frontend-only** project.
+* All product data and application state are managed using **Redux**.
+* The project was built to understand real-world e-commerce UI flow and frontend state handling.
+* Developed as part of my internship training to strengthen React and Redux concepts.
+
+

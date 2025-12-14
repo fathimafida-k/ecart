@@ -1,14 +1,14 @@
 
 # E-Commerce Web Application 
 
-A React-based e-commerce web application that allows users to browse products across multiple categories such as cosmetics, groceries, furniture, and more.  
+A React-based e-commerce web application that allows users to browse products .  
 Users can search products, view details, manage wishlist and cart, and place orders through a smooth and interactive UI.
 
 This project was developed as part of my MERN Stack internship and focuses on frontend architecture, Redux state management, and real-world e-commerce workflows.
 
 
 
-## 🚀 Features
+##  Features
 
 - Search functionality
 - Product details page
@@ -33,12 +33,11 @@ This project was developed as part of my MERN Stack internship and focuses on fr
 ---
 
 ## 🔗 Live Demo
-
-👉 https://YOUR-LIVE-LINK-HERE
+ecart-9bas.vercel.app
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -68,7 +67,7 @@ npm run dev
 
 ---
 
-## 📌 Notes
+##  Notes
 
 * This is a **frontend-only** project.
 * All product data and application state are managed using **Redux**.

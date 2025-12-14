@@ -12,11 +12,15 @@ const wishlistSlice=createSlice({
             }
             else{
                 state.push(action.payload)
+                 alert("Product added to wishlist")
             }
 
         },
         removeFromWishlist:(state,action)=>{
-       return state.filter(pro=>pro.id!=action.payload.id)
+        
+       return state.filter(pro=>pro.id!=action.payload.id) 
+     
+            
             
         
         }

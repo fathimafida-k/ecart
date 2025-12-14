@@ -22,7 +22,7 @@ const decrementQuant=(product)=>{
 
  }
   return (
-    <div> <Header/>
+    <div  style={{ minHeight: "80vh" }}> <Header/>
       {cart.length>0 ?
     <div className='d-flex'>
       <div className='ms-2' style={{width:"70%"}}>

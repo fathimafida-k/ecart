@@ -15,6 +15,7 @@ const cartSlice = createSlice({
             }
             else{
                 state.push({...action.payload,quantity:1,totalPrice:action.payload.price})
+                    alert("Product added to cart")
             }
 
         },

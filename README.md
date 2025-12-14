@@ -44,13 +44,13 @@ Follow these steps to run the project locally:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/fathimafida-k/ecart.git
 ````
 
 2. Navigate to the project folder
 
 ```bash
-cd YOUR_REPO_NAME
+cd ecart
 ```
 
 3. Install dependencies
